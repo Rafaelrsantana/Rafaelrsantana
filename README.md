@@ -8,6 +8,7 @@
   <br/>
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelrsantana&show_icons=true&theme=dracula)
+![Rafael's Top Langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrsantana&hide_progress=true)
 
 
 ### Technologies I use on a daily basis
