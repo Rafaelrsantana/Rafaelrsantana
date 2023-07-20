@@ -7,7 +7,8 @@
 
   <br/>
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelrsantana&show_icons=true&theme=dracula)
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelrsantana&show_icons=true&theme=dracula) 
+
 [![Rafael's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrsantana)](https://github.com/rafaelrsantana/github-readme-stats)
 
 
